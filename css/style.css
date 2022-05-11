@@ -3,7 +3,7 @@ body{
 }
 
 .primer{
-    background: url(../IMAGE/cabecera.jpg);
+    background: url(../images/cabecera.jpg);
     background-repeat: no-repeat;
     background-position:100%;
 }
